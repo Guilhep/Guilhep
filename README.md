@@ -1,21 +1,34 @@
 
 
-### Hi! I'm Guilherme Pereira 👋
+# 🚀 Guilherme Pereira | Ciência de Dados & IA 🤖  
 
+🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
+📍 **Brasil** | 🔍 **Explorando o mundo dos dados**  
+⚡ **Especialista em Ciência de Dados, Machine Learning e Automação IA**  
 
+---
 
-📚 I have a degree in Systems Analysis and Development.
+## 🔥 Sobre mim  
+💡 Apaixonado por transformar **dados em decisões inteligentes** e criar **soluções automatizadas** com **IA**.  
+📊 Trabalho com **análise, modelagem e otimização de processos** usando **Python, SQL e Machine Learning**.  
+🚀 Sempre buscando aprender e aplicar novas tecnologias para resolver **problemas reais**.  
 
-🏡 Born in 1996, I live in Peruibe-SP, born in Santos-SP.
+---
 
-💻 I love studying and being aware of new technologies.
+## 🛠️ Tecnologias & Ferramentas  
+🔹 **Linguagens:** Python, SQL, JavaScript  
+📊 **Análise de Dados:** Pandas, NumPy, Power BI  
+🧠 **Machine Learning:** Scikit-Learn, TensorFlow  
+⚙️ **Automação:** N8N, APIs, RPA  
+☁️ **Cloud & Banco de Dados:** Firebase, BigQuery, MySQL  
 
-### I'm here too! 🙋‍♂️
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-pereira-92b064188/)
-### Technologies I use in my day.
+---
 
-<div style="display: inline_block"><br/>
-    <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<div/>
+## 📊 GitHub Stats  
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhep&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhep&layout=compact&theme=radical)  
+
+---
+
+📩 **Quer trocar uma ideia? Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/guilherme-pereira-dos-santos-frontend-react/)**!  
+
