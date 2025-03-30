@@ -4,7 +4,7 @@
 
 🎓 **Formado em Análise e Desenvolvimento de Sistemas**  
 📍 **Brasil** | 🔍 **Explorando o mundo dos dados**  
-⚡ **Especialista em Ciência de Dados, Machine Learning e Automação IA**  
+⚡ **Ciência de Dados, Machine Learning e Automação IA**  
 
 ---
 
